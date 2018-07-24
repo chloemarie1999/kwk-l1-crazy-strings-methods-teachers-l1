@@ -2,5 +2,5 @@
 
 def crazy_strings(a,b)
   a="Hello"
-  b=
+  b="Friends"
 end
