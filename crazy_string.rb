@@ -4,3 +4,5 @@ def crazy_strings(a,b)
   a="Hello"
   b="Friends"
 end
+
+puts crazy_strings
