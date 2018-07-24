@@ -6,4 +6,4 @@ def crazy_strings(string1, string2)
   "#{string1} #{string2}"
 end
 
-puts crazy_strings
+puts crazy_strings(string1, string2)
